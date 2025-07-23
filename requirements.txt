@@ -4,3 +4,11 @@ idna==3.10
 oandapyV20==0.7.2
 requests==2.32.4
 urllib3==2.5.0
+streamlit
+streamlit-autorefresh
+oandapyV20
+pandas
+numpy
+requests
+python-dateutil
+
