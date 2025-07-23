@@ -1,0 +1,74 @@
+{
+  "time": "2025-07-22T10:40:15.470477032Z",
+  "prices": [
+    {
+      "type": "PRICE",
+      "time": "2025-07-22T10:40:10.297022351Z",
+      "bids": [
+        {
+          "price": "1.17025",
+          "liquidity": 500000
+        },
+        {
+          "price": "1.17024",
+          "liquidity": 500000
+        },
+        {
+          "price": "1.17023",
+          "liquidity": 2000000
+        },
+        {
+          "price": "1.17022",
+          "liquidity": 2000000
+        },
+        {
+          "price": "1.17021",
+          "liquidity": 5000000
+        },
+        {
+          "price": "1.17019",
+          "liquidity": 10000000
+        },
+        {
+          "price": "1.17016",
+          "liquidity": 10000000
+        }
+      ],
+      "asks": [
+        {
+          "price": "1.17032",
+          "liquidity": 500000
+        },
+        {
+          "price": "1.17034",
+          "liquidity": 2500000
+        },
+        {
+          "price": "1.17035",
+          "liquidity": 2000000
+        },
+        {
+          "price": "1.17036",
+          "liquidity": 5000000
+        },
+        {
+          "price": "1.17039",
+          "liquidity": 10000000
+        },
+        {
+          "price": "1.17042",
+          "liquidity": 10000000
+        }
+      ],
+      "closeoutBid": "1.17016",
+      "closeoutAsk": "1.17042",
+      "status": "tradeable",
+      "tradeable": true,
+      "quoteHomeConversionFactors": {
+        "positiveUnits": "0.74144374",
+        "negativeUnits": "0.74155370"
+      },
+      "instrument": "EUR_USD"
+    }
+  ]
+}
